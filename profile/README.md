@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- create news-classifier model to be able to identify news articles
+
+- create data-extraction pipeline to be able to extract data from news articles
+
 <!--
 
 **Here are some ideas to get you started:**
