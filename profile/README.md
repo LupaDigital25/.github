@@ -23,3 +23,5 @@ main repository structure:
 - create app to keep the web application related files
 
 - add reqs.txt or env.yaml to this repo and mention it in the profile readme and also how to reproduce the projetct
+
+https://zenodo.org/records/15231163
