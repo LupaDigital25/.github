@@ -25,3 +25,5 @@ main repository structure:
 - add reqs.txt or env.yaml to this repo and mention it in the profile readme and also how to reproduce the projetct
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15231163.svg)](https://doi.org/10.5281/zenodo.15231163)
+
+[Descrição Sumária](https://lupadigital25.github.io/assets/LupaDigital_hugoverissimo.pdf)
