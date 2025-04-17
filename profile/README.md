@@ -24,4 +24,4 @@ main repository structure:
 
 - add reqs.txt or env.yaml to this repo and mention it in the profile readme and also how to reproduce the projetct
 
-https://zenodo.org/records/15231163
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15231163.svg)](https://doi.org/10.5281/zenodo.15231163)
