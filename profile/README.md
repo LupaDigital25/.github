@@ -18,10 +18,7 @@ missing env at then end and web application link
 
 <span style="vertical-align: middle; font-weight: bold;">Resulting dataset:</span>
 <a href="https://doi.org/10.5281/zenodo.15231163">
-  <img 
-    src="https://zenodo.org/badge/DOI/10.5281/zenodo.15231163.svg" 
-    alt="DOI"
-    style="vertical-align: middle;">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15231163.svg" alt="DOI" style="vertical-align: middle;">
 </a>
 
 ---
