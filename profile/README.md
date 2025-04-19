@@ -45,4 +45,4 @@ Pre-process the extracted data, including cleaning, normalization, and explorato
 
 Create a web application (search engine) to visualize and interact with the processed data.
 
-**Note:** Environment details and dependencies are specified in the organization's repository under `.github/LupaDigital25.yaml`.
+**Note:** Environment details and dependencies are defined in the `.github` repository under `LupaDigital25.yaml`.
