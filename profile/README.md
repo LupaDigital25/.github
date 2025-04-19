@@ -1,5 +1,7 @@
 # Lupa Digital
 
+missing env at then end and web application link
+
 ## 🇵🇹 Português
 
 **Lupa Digital** é um projeto desenvolvido no âmbito do concurso Prémios Arquivo.pt 2025, focado em metajornalismo inteligente. Utilizando ferramentas de inteligência artificial, o projeto analisa milhares de artigos jornalísticos desde o início da era digital para descobrir padrões, tendências e insights relevantes sobre qualquer tema. O objetivo é transformar grandes volumes de informação jornalística em conhecimento útil e acessível, contribuindo para o fortalecimento da literacia mediática e para uma compreensão mais crítica do ecossistema informativo.
@@ -10,20 +12,35 @@
 
 ----
 
-add the rest of the documentation here in english
+**Summary description:** available [here](https://lupadigital25.github.io/assets/LupaDigital_hugoverissimo.pdf).
 
-main repository structure:
+**Web application:** available HEREHEREHEREHERHERHEHREHRHEHRE.
 
-- create news-classifier model to be able to identify news articles
+**Resulting dataset:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15231163.svg)](https://doi.org/10.5281/zenodo.15231163)
 
-- create data-extraction pipeline to be able to extract data from news articles
+---
 
-- create data-preprocessing pipeline to be able to pre-process data and do some eda
+The project follows a modular and reproducible pipeline:
 
-- create app to keep the web application related files
+<p align="center">
+  <img src="pipeline_project.png" alt="Project Pipeline" width="85%"/>
+</p>
 
-- add reqs.txt or env.yaml to this repo and mention it in the profile readme and also how to reproduce the projetct
+1. **news-classifier**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15231163.svg)](https://doi.org/10.5281/zenodo.15231163)
+(Optional) Train a model to identify and filter actual news articles from large collections of archived webpages — not necessary if you're only replicating the results, as the model is already trained.
 
-[Descrição Sumária](https://lupadigital25.github.io/assets/LupaDigital_hugoverissimo.pdf)
+2. **data-extraction**
+
+Automatically extract metadata, full text, mentioned topics, and sentiment from each news article.
+
+3. **data-preprocessing**
+
+Pre-process the extracted data, including cleaning, normalization, and exploratory data analysis (EDA).
+
+4. **app**
+
+Create a web application (search engine) to visualize and interact with the processed data.
+
+**Note:** Dependencies and environment details can be found !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
