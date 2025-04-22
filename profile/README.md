@@ -1,6 +1,6 @@
 # Lupa Digital
 
-missing web application link
+missing web application link + app-docker repo
 
 ## 🇵🇹 Português
 
