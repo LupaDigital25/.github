@@ -1,7 +1,5 @@
 # Lupa Digital
 
-missing web application link + app-docker repo
-
 ## 🇵🇹 Português
 
 **Lupa Digital** é um projeto desenvolvido no âmbito do concurso Prémios Arquivo.pt 2025, focado em metajornalismo inteligente. Utilizando ferramentas de inteligência artificial, o projeto analisa milhares de artigos jornalísticos desde o início da era digital para descobrir padrões, tendências e insights relevantes sobre qualquer tema. O objetivo é transformar grandes volumes de informação jornalística em conhecimento útil e acessível, contribuindo para o fortalecimento da literacia mediática e para uma compreensão mais crítica do ecossistema informativo.
@@ -14,10 +12,9 @@ missing web application link + app-docker repo
 
 **Summary description:** available [here](https://lupadigital25.github.io/assets/LupaDigital_hugoverissimo.pdf).
 
-**Web application:** available HEREHEREHEREHERHERHEHREHRHEHRE.
+**Web application:** available at [lupa-digital.pt](http://lupa-digital.pt).
 
-**Resulting dataset:**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15231163.svg)](https://doi.org/10.5281/zenodo.15231163)
+**Resulting dataset:** available at [10.5281/zenodo.15231163](https://doi.org/10.5281/zenodo.15231163).
 
 ---
 
@@ -42,5 +39,9 @@ Pre-process the extracted data, including cleaning, normalization, and explorato
 4. **app**
 
 Create a web application (search engine) to visualize and interact with the processed data.
+
+5. **app-docker**
+
+(Extra) Create a Docker image for the web application, allowing it to run in any environment with Docker installed. This repository is also used for production deployments on a server.
 
 **Note:** Environment details and dependencies are defined in the `.github` repository under `LupaDigital25.yaml`.
