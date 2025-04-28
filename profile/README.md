@@ -10,7 +10,9 @@
 
 ----
 
-**Summary description:** available [here](https://lupadigital25.github.io/assets/LupaDigital_hugoverissimo.pdf).
+**Summary description:** available at [assets/LupaDigital_hugoverissimo.pdf](https://lupadigital25.github.io/assets/LupaDigital_hugoverissimo.pdf).
+
+**Complementary video:** available at [youtu.be/WSpXLZcwQSM](https://youtu.be/WSpXLZcwQSM).
 
 **Web application:** available at [lupa-digital.pt](http://lupa-digital.pt).
 
