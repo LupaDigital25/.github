@@ -18,6 +18,8 @@
 
 **Resulting dataset:** available at [10.5281/zenodo.15231163](https://doi.org/10.5281/zenodo.15231163).
 
+**Technical overview:** available at [assets/slides](https://lupadigital25.github.io/assets/slides).
+
 ---
 
 The project follows a modular and reproducible pipeline:
