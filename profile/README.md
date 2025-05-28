@@ -14,6 +14,8 @@
 
 **Complementary video:** available at [youtu.be/WSpXLZcwQSM](https://youtu.be/WSpXLZcwQSM).
 
+**Complementary slides:** available at [assets/slides-arquivo.pdf](https://lupadigital25.github.io/assets/slides-arquivo.pdf).
+
 **Web application:** available at [lupa-digital.pt](http://lupa-digital.pt).
 
 **Resulting dataset:** available at [10.5281/zenodo.15231163](https://doi.org/10.5281/zenodo.15231163).
